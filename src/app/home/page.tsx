@@ -7,7 +7,7 @@ export default function Page(){
     return (
         <div>
             <NavigationBar />
-            <p>visit /home to see homepage - this page should not be used</p>
+            <p>this the homepage</p>
 
         </div>
     );

@@ -7,7 +7,9 @@ export default function Page(){
     return (
         <div>
             <NavigationBar />
-            <p>this the homepage</p>
+            <p className="">
+                this the homepage
+            </p>
 
         </div>
     );
